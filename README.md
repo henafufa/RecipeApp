@@ -1,5 +1,5 @@
 # Recipe App
-It is recipe app built with vanilla javascript with fetch api and public api mealdb.
+It is recipe app built with vanilla javascript with fetch api and public api mealdb. Design idea from https://www.uidesigndaily.com/posts/sketch-recipe-app-food-mobile-day-615
 
 
 
