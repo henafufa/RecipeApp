@@ -5,9 +5,9 @@
 }
 
 body {
-    background: #ece9e6;
-    background: -webkit-linear-gradient(to right, #ffffff, #ece9e6);
-    background: linear-gradient(to right, #ffffff, #ece9e6);
+    background: #ECE9E6; 
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,7 +52,10 @@ header button {
 }
 
 .fav-container {
-    background-color: rgb(243, 225, 255);
+    /* background-color: rgb(243, 225, 255); */
+    background: #C9D6FF;
+    background: -webkit-linear-gradient(to right, #E2E2E2, #C9D6FF);
+    background: linear-gradient(to right, #E2E2E2, #C9D6FF);
     padding: 0.25rem 1rem;
     text-align: center;
 }
